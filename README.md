@@ -1,4 +1,5 @@
 # Stackclass
+  |--------------------|
   |     top int        | 
   |     maxSize int    | 
   | stackArr[] double  |            
