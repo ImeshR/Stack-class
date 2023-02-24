@@ -1,8 +1,10 @@
 # Stackclass
+  | Stack Class        |
   |  ---------------   | 
   | top int            | 
   | maxSize int        | 
-  | stackArr[] double  |            
+  | stackArr[] double  |
+  | =================  |
   | StackX(int size)   |
   | void push(int no)  |
   | double pop ()      |
