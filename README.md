@@ -1,7 +1,6 @@
 # Stackclass
-  |--------------------|
-  |     top int        | 
-  |     maxSize int    | 
+  | top int            | 
+  | maxSize int        | 
   | stackArr[] double  |            
   |--------------------|
   | StackX(int size)   |
