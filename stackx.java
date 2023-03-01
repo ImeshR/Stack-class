@@ -52,15 +52,15 @@ public class stackx {
         return top == maxsize - 1;
     }
 
-    public static void main(String[] arg) {
-        stackx stack = new stackx(5);
+    // public static void main(String[] arg) {
+    //     stackx stack = new stackx(5);
 
-        stack.push(1);
-        stack.push(2);
-        stack.push(3);
-        stack.push(4);
+    //     stack.push(1);
+    //     stack.push(2);
+    //     stack.push(3);
+    //     stack.push(4);
 
-        stack.pop();
-    }
+    //     stack.pop();
+    // }
 
 }
